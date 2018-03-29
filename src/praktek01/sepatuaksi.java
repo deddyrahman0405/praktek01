@@ -12,5 +12,11 @@ package praktek01;
 public class sepatuaksi {
     public static void main(String[] args) {
         sepatu deddy = new sepatu();
+        
+        deddy .merek="adidas";
+        deddy .warna="biru,putih";
+        deddy .ukuran="40,42,43";
+        deddy .harga="300.000";
+                
     }
 }

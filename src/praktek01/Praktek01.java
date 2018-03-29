@@ -7,7 +7,7 @@ package praktek01;
 
 /**
  *
- * @author rama
+ * @deddyrahman0405
  */
 public class Praktek01 {
 
