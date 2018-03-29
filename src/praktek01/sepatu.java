@@ -10,5 +10,14 @@ package praktek01;
  * @deddyrahman0405
  */
 public class sepatu {
+    String merek;
+    String warna;
+    String ukuran;
+    String harga;
     
+    void cetakinfo(){
+    System.out.println("merek :"+merek);
+    System.out.println("warna :"+warna);
+    System.out.println("ukuran :"+ukuran);
+    System.out.println("harga :"+harga);
 }
