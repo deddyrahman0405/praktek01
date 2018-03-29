@@ -16,7 +16,9 @@ public class sepatuaksi {
         deddy .merek="adidas";
         deddy .warna="biru,putih";
         deddy .ukuran="40,42,43";
-        deddy .harga="300.000";
-                
+        deddy .harga="300000";
+        
+        deddy .cetakinfo();
+  
     }
 }
